@@ -1,6 +1,6 @@
 import type { Core } from '@strapi/strapi';
 
-const register = ({ strapi }: { strapi: Core.Strapi }) => {
+export const register = ({ strapi }: { strapi: Core.Strapi }) => {
   strapi.customFields.register({
     name: "month-selector",
     plugin: 'month-multi-selector',
@@ -11,5 +11,3 @@ const register = ({ strapi }: { strapi: Core.Strapi }) => {
     },
   });
 };
-
-export default register;
