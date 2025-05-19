@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "keywords": [],
+  "version": "0.0.1",
+  "keywords": ["strapi", "custom-fields"],
   "type": "commonjs",
   "exports": {
     "./package.json": "./package.json",
@@ -61,11 +61,11 @@
   "strapi": {
     "kind": "plugin",
     "name": "month-multi-selector",
-    "displayName": "SF Month Multi Selector",
-    "description": "A multi selector for months"
+    "displayName": "Month Multi Selector",
+    "description": "A simple multi month selector"
   },
   "name": "month-multi-selector",
-  "description": "A multi selector for months",
+  "description": "A simple multi month selector",
   "license": "MIT",
-  "author": "Mick Schouten <hi@studio-finkel.com>"
+  "author": "Mick Schouten <bravebox@gmail.com>"
 }
