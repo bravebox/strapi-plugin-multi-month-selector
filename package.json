@@ -1,6 +1,6 @@
 {
   "name": "month-multi-selector",
-  "description": "A simple multi month selector",
+  "description": "If you want to select multiple months in a 3 state way (inactive, low, high), this plugin is for you.",
   "license": "MIT",
   "author": "Mick Schouten <bravebox@gmail.com>",
   "version": "0.0.4",
@@ -77,6 +77,6 @@
     "kind": "plugin",
     "name": "month-multi-selector",
     "displayName": "Month Multi Selector",
-    "description": "A simple multi month selector"
+    "description": "If you want to select multiple months in a 3 state way (inactive, low, high), this plugin is for you."
   }  
 }
