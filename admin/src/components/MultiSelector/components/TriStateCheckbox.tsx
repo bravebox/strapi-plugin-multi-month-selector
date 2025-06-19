@@ -53,7 +53,6 @@ const TriStateCheckbox: React.FC<TriStateCheckboxProps> = ({ value, onChange, la
         aria-label={`${label}: ${getLabelText()}`}
       >
         {getIcon()}
-        {/* <span className="font-medium text-sm transition-colors">{getLabelText()}</span> */}
       </button>
     </div>
   );
