@@ -3,7 +3,7 @@
   "description": "If you want to select multiple months in a 3 state way (inactive, low, high), this plugin is for you.",
   "license": "MIT",
   "author": "Mick Schouten <bravebox@gmail.com>",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "keywords": [
     "strapi",
     "strapi-plugin",
